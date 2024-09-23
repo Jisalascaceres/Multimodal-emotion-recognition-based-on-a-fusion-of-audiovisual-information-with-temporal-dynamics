@@ -26,7 +26,7 @@ from sklearn.metrics import confusion_matrix
 
 
 # from pyannote.audio import Inference, Model
-# token_acceso = "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"
+# token_acceso = "Your token"
 
 # voice_model = Model.from_pretrained('pyannote/embedding', use_auth_token=token_acceso)
 # voice_model.eval()
